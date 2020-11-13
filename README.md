@@ -6,7 +6,8 @@ Scanning an NFC Tag in a Xamarin Android applications appears to trigger events 
 ### Steps to Reproduce:
 - Run application on an Android device while attached to the debugger.
 - Navigate to the `ScanPage` by tapping the button on the `AboutPage`.
-- Once on the `ScanPage`, scan an NFC tag and notice that `AboutPage.OnAppearing` is executed while scanning the tag.
+- _Optionally navigate to `AnotherScanPage` by tapping the button on the `ScanPage`._
+- Once on the `ScanPage` or `AnotherScanPage`, scan an NFC tag and notice that `AboutPage.OnAppearing` is executed while scanning the tag.
 
 ### Other Info
 We've noticed that the page at the "bottom" of the NavigationStack seems to be the page for which the unexpected events will trigger.
