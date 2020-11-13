@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj": {}
+    "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj": {
+    "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj",
+        "projectUniqueName": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj",
         "projectName": "IntentBug.Android",
-        "projectPath": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj",
+        "projectPath": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj",
         "packagesPath": "C:\\Users\\daviscollins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug.Android\\obj\\",
+        "outputPath": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug\\IntentBug.csproj": {
-                "projectPath": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug\\IntentBug.csproj"
+              "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug\\IntentBug.csproj": {
+                "projectPath": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug\\IntentBug.csproj"
               }
             }
           }
@@ -55,14 +55,14 @@
         }
       }
     },
-    "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug\\IntentBug.csproj": {
+    "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug\\IntentBug.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug\\IntentBug.csproj",
+        "projectUniqueName": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug\\IntentBug.csproj",
         "projectName": "IntentBug",
-        "projectPath": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug\\IntentBug.csproj",
+        "projectPath": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug\\IntentBug.csproj",
         "packagesPath": "C:\\Users\\daviscollins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug\\obj\\",
+        "outputPath": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

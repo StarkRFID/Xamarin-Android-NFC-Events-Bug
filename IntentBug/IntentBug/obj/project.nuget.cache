@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eSGU4QvH/E/9sYQmxyNBdILxO+loMLj7rFES68Eh07wsCvtjuCgE1tFU/Vq+BL/6kmz/PQH7x0DBy5Txxtln+g==",
+  "dgSpecHash": "HMxXZKT2iksoQOxyAFB7C/3lFrKdH2/5Iry/ZDmxBM7Uu9z7ipH4p/M6FwOUHJbI9/u+QhWcs+SJHl5WJcFgvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug\\IntentBug.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug\\IntentBug.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daviscollins\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\daviscollins\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

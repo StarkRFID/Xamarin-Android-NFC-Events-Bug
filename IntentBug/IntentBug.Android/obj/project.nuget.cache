@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3pe9QJekVhUliLN+Lj0JksSDrSL/M3zRjWhj4ijMrfIyzrzINuShUPXmA0uwC0vDi7Z+mSFW9D5WEAczZV3aA==",
+  "dgSpecHash": "zkKf3HqC0j2et68z7YSUKBah0R26EzY3Z+r148QcpkXqdX+HR9d8dwAEdrNiVQ6/xfB9ryRKkjzgRQ2pXsiWkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daviscollins\\source\\repos\\IntentBug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\Xamarin-Android-NFC-Events-Bug\\IntentBug\\IntentBug.Android\\IntentBug.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

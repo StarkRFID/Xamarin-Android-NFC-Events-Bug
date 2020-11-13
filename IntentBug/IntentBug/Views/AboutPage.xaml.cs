@@ -14,7 +14,7 @@ namespace IntentBug.Views
         {
             base.OnAppearing();
 
-            // THIS METHOD IS EXECUTED WHEN SCANNING A TAG, EVEN IF ScanPage IS THE PAGE BEING VIEWED
+            // THIS METHOD IS EXECUTED WHEN SCANNING A TAG, EVEN IF ScanPage or AnotherScanPage IS THE PAGE BEING VIEWED
 
             Console.WriteLine("About Page OnAppearing");
         }
