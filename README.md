@@ -4,6 +4,7 @@ Public repo for sharing the sample code that exhibits the NFC intent/events bug 
 Scanning an NFC Tag in a Xamarin Android applications appears to trigger events such as `OnAppearing` for pages that are not being displayed on the device.
 
 ### Steps to Reproduce:
+- Pull this repo and run the solution that it contains.
 - Run application on an Android device while attached to the debugger.
 - Navigate to the `ScanPage` by tapping the button on the `AboutPage`.
 - _Optionally navigate to `AnotherScanPage` by tapping the button on the `ScanPage`._
