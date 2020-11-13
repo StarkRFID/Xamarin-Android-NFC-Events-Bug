@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IntentBug.Views.ScanPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Notice that a breakpoint placed in AboutPage.OnAppearing hits when you scan an NFC tag, even though the current page is ScanPage."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

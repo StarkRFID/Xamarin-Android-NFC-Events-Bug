@@ -1,0 +1,16 @@
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\bin\Debug\netstandard2.0\IntentBug.deps.json
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\bin\Debug\netstandard2.0\IntentBug.dll
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\bin\Debug\netstandard2.0\ref\IntentBug.dll
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\bin\Debug\netstandard2.0\IntentBug.pdb
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\IntentBug.csprojAssemblyReference.cache
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\IntentBug.AssemblyInfoInputs.cache
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\IntentBug.AssemblyInfo.cs
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\IntentBug.csproj.CoreCompileInputs.cache
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\IntentBug.dll
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\ref\IntentBug.dll
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\IntentBug.pdb
+C:\Users\daviscollins\source\repos\IntentBug\IntentBug\IntentBug\obj\Debug\netstandard2.0\Views\ScanPage.xaml.g.cs
